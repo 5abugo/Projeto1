@@ -29,7 +29,8 @@ nav {
 color: white;
 text-decoration: none;
 margin: 0 15px  ;
-  }
+  
+}
     nav a:hover{
 
 color: rgb(0, 0, 0);
@@ -46,6 +47,9 @@ img{
     section{
 
 margin: 20px 0 ;
+}
+iframe{
+border-radius: 20px;
 }
 
 footer{

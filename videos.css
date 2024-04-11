@@ -11,7 +11,28 @@ body {
     padding: 20px;
     text-align: center;
  }
- 
+
+ nav {
+
+   display: flex;
+   justify-content: center;
+  background-color: rgb(201, 122, 18);
+  padding: 10px;
+     }
+
+   nav a{
+
+color: white;
+text-decoration: none;
+margin: 0 15px  ;
+ }
+   nav a:hover{
+
+color: rgb(0, 0, 0);
+text-decoration: underline;
+cursor: crosshair;
+   }
+
  
  main {
     padding: 20px;
